@@ -1,6 +1,8 @@
 # Mini-Projects-
 here the links of  data set -
 <------------------------------>
+
+
 1.Customer Segmentation ->https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 
